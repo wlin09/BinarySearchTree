@@ -1,3 +1,4 @@
+# Tests to ensure binary search tree is functioning properly.
 import unittest
 from Binary_Search_Tree import Binary_Search_Tree
 
