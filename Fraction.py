@@ -1,3 +1,4 @@
+# Application of binary search tree in main section of file.
 class Fraction:
 
   def __init__(self, numerator, denominator):
