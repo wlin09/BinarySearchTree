@@ -1,3 +1,4 @@
+# Implementation of binary search tree. Performance analysis included for functions.
 class Binary_Search_Tree:
 
   class __BST_Node:
